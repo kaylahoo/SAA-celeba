@@ -5,7 +5,7 @@ import timm
 import sys
 
 # from timm.models.layers import DropPath
-from src.SELayer import SELayer
+#from src.SELayer import SELayer
 #from src.drop import drop_path
 
 
